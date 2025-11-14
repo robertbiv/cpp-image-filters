@@ -1,0 +1,25 @@
+# Build artifacts
+*.o
+*.out
+test_generic
+vector_demo
+int_vector
+Homework_3
+
+# CMake
+cmake-build-debug/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
