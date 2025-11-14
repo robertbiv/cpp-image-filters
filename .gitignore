@@ -2,6 +2,8 @@
 *.o
 *.out
 test_generic
+vector_demo
+int_vector
 Homework_3
 
 # CMake
